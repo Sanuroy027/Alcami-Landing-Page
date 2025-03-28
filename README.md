@@ -14,7 +14,7 @@ This project is a responsive landing page designed to adapt to different screen 
 ## File Structure
 - `index.html` – The main HTML file for the landing page.
 - `styl.css` – The CSS file containing responsive styles.
-- `javascript.ls` – The js file containing some responsive funtion.
+- `javascript.js` – The Javascript file containing some responsive functions.
 
 ## How to Use
 1. Open `index.html` in a browser.
