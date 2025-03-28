@@ -1,5 +1,5 @@
 # Alcami-Landing-Page
-# Responsive Landing Page
+
 
 ## Overview
 This project is a responsive landing page designed to adapt to different screen sizes with minimal changes to the original structure. The CSS file ensures fluid layouts, prevents content overflow, and enhances readability on all devices.
